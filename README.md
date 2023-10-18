@@ -1,10 +1,10 @@
 # FIT2101 Project
 
 ## Link to Website
-https://slayfusion-0-1.onrender.com
+https://slayfusion.onrender.com
 
 ## Link to Github Repository (needed for hosting)
-https://github.com/Jasmine-PI/slayfusion-0.1
+https://github.com/Jasmine-PI/slayfusion-0.2
 
 
 Note:
