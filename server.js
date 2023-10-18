@@ -42,13 +42,13 @@ async function run() {
     let sprints = [];
 
     // Require your Column class here
-    const Column = require('./models/column'); 
+    const Column = require('./column'); 
     // Require your Task class here
-    const Task = require('./models/task'); // Adjust the path as needed
-    const Sprint = require('./models/sprint'); // Adjust the path as needed
+    const Task = require('./task'); // Adjust the path as needed
+    const Sprint = require('./sprint'); // Adjust the path as needed
     const { privateEncrypt } = require("crypto");
 
-    const User = require('./models/user'); // Adjust the path as needed
+    const User = require('./user'); // Adjust the path as needed
 
     var todo = new Column("To-do")
     var inprog = new Column("In-Progress")
